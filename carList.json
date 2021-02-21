@@ -1,0 +1,1339 @@
+{
+    "cars": [
+        {
+            "brand": "Abarth",
+            "model": "1500 Biposto Bertone B.A.T 1"
+        },
+        {
+            "brand": "Abarth",
+            "model": "500"
+        },
+        {
+            "brand": "Alpine",
+            "model": "A110 1600S"
+        },
+        {
+            "brand": "Daihatsu",
+            "model": "Copen Active Top"
+        },
+        {
+            "brand": "Honda",
+            "model": "Beat"
+        },
+        {
+            "brand": "Honda",
+            "model": "Fit Hybrid"
+        },
+        {
+            "brand": "Honda",
+            "model": "S660"
+        },
+        {
+            "brand": "Honda",
+            "model": "S800"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Demio XD Touring"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Roadster S (ND)"
+        },
+        {
+            "brand": "MINI",
+            "model": "Mini-Cooper 'S'"
+        },
+        {
+            "brand": "Porsche",
+            "model": "356 A/1500 GS GT Carrera Speedster"
+        },
+        {
+            "brand": "Suzuki",
+            "model": "Swift Sport"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Corolla Levin 3door 1600GT APEX (AE86)"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Sports 800"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Sprinter Trueno 3door 1600GT APEX (AE86)"
+        },
+        {
+            "brand": "Toyota",
+            "model": "TOYOTA S-FR"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Golf I GTI"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Sambabus Typ 2 (T1)"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Volkswagen 1200"
+        },
+        {
+            "brand": "Fiat",
+            "model": "500 1.2 8V Lounge SS"
+        },
+        {
+            "brand": "Fiat",
+            "model": "500 F"
+        },
+
+
+        {
+            "brand": "Alfa Romeo",
+            "model": "4C Launch Edition"
+        },
+        {
+            "brand": "Alfa Romeo",
+            "model": "MiTo 1.4 T Sport"
+        },
+        {
+            "brand": "Audi",
+            "model": "TT Coupé 3.2 quattro"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW i3"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M3 Sport Evolution"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette Sting Ray Sport Coupe (C2)"
+        },
+        {
+            "brand": "Citroën",
+            "model": "DS3 Racing"
+        },
+        {
+            "brand": "Honda",
+            "model": "Civic Type R (EK)"
+        },
+        {
+            "brand": "Honda",
+            "model": "Integra Type R (DC2)"
+        },
+        {
+            "brand": "Honda",
+            "model": "S2000"
+        },
+        {
+            "brand": "Lancia",
+            "model": "DELTA HF Integrale Evoluzione"
+        },
+        {
+            "brand": "Lancia",
+            "model": "Stratos"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Atenza Sedan XD L Package"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Eunos Roadster (NA Special Package)"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Roadster Touring Car"
+        },
+        {
+            "brand": "Mazda",
+            "model": "RX-7 GT-X (FC)"
+        },
+        {
+            "brand": "MINI",
+            "model": "MINI Cooper S"
+        },
+        {
+            "brand": "Nissan",
+            "model": "180SX Type X"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Silvia K's Dia Selection (S13)"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "208 GTi by Peugeot Sport"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "RCZ GT Line"
+        },
+        {
+            "brand": "Pontiac",
+            "model": "Firebird Trans Am"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Clio R.S. 220 EDC Trophy '15"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Clio R.S. 220 EDC Trophy '16"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Clio V6 24V"
+        },
+        {
+            "brand": "Subaru",
+            "model": "BRZ S"
+        },
+        {
+            "brand": "Toyota",
+            "model": "86 GRMN"
+        },
+        {
+            "brand": "Toyota",
+            "model": "86 GT Limited"
+        },
+        {
+            "brand": "Toyota",
+            "model": "MR2 GT-S"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Toyota 2000GT"
+        },
+        {
+            "brand": "Toyota",
+            "model": "TOYOTA 86 GT"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Golf VII GTI"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "Dino 246 GT"
+        },
+
+
+        {
+            "brand": "Alpine",
+            "model": "A110 Première Édition"
+        },
+        {
+            "brand": "Audi",
+            "model": "TTS Coupé"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M3 Coupé"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Camaro Z28"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette Stingray Convertible (C3)"
+        },
+        {
+            "brand": "De Tomaso",
+            "model": "Pantera"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Super Bee"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "250 GT Berlinetta passo corto CN.2521"
+        },
+        {
+            "brand": "Ford",
+            "model": "Focus ST"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang Mach 1"
+        },
+        {
+            "brand": "Greddy",
+            "model": "Fugu Z"
+        },
+        {
+            "brand": "Honda",
+            "model": "Civic Type R (FK2)"
+        },
+        {
+            "brand": "Honda",
+            "model": "NSX Type R"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "Genesis Coupe 3.8 Track"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "E-type Coupé"
+        },
+        {
+            "brand": "KTM",
+            "model": "X-BOW R"
+        },
+        {
+            "brand": "Mazda",
+            "model": "RX500"
+        },
+        {
+            "brand": "Mazda",
+            "model": "RX-7 Spirit R Type A (FD)"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "GTO Twin Turbo"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Lancer Evolution Final Edition"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Lancer Evolution IV GSR"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Fairlady Z 300ZX TwinTurbo 2 seater (Z32)"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Fairlady Z Version S (Z33)"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Skyline GT-R V・spec (R33)"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Skyline GT-R V・spec II (R32)"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Skyline GT-R V・spec II Nür (R34)"
+        },
+        {
+            "brand": "Plymouth",
+            "model": "XNR Ghia Roadster"
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 Carrera RS Club Sport (993)"
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 Turbo (930)"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Mégane R.S. Trophy"
+        },
+        {
+            "brand": "Shelby",
+            "model": "Shelby G.T.350"
+        },
+        {
+            "brand": "Subaru",
+            "model": "Impreza 22B-STi Version"
+        },
+        {
+            "brand": "Subaru",
+            "model": "Impreza Coupe WRX Type R STi Version VI"
+        },
+        {
+            "brand": "Subaru",
+            "model": "WRX STI Type S"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Crown Athlete G"
+        },
+        {
+            "brand": "Toyota",
+            "model": "GR Supra RZ"
+        },
+        {
+            "brand": "Toyota",
+            "model": "GR Yaris 1st Edition RZ High performance"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Supra 3.0GT Turbo A"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Supra RZ"
+        },
+
+        {
+            "brand": "Aston Martin",
+            "model": "V8 Vantage S"
+        },
+        {
+            "brand": "Audi",
+            "model": "R8 4.2 FSI R tronic"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M3 Coupé"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M4 Coupé"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW Z8"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Challenger R/T"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "365 GTB4"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "GTO"
+        },
+        {
+            "brand": "Ford",
+            "model": "F-150 SVT Raptor"
+        },
+        {
+            "brand": "Ford",
+            "model": "GT40 Mark I"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang GT Premium Fastback"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Countach LP400"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Miura P400 Bertone Prototype CN.0706"
+        },
+        {
+            "brand": "Maserati",
+            "model": "GranTurismo S"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "300 SEL 6.8 AMG"
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 GT3 (996)"
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 GT3 (997)"
+        },
+        {
+            "brand": "RE Amemiya",
+            "model": "FD3S RX-7"
+        },
+        {
+            "brand": "Toyota",
+            "model": "GR Supra RZ'20"
+        },
+        {
+            "brand": "Toyota",
+            "model": "TOYOTA S-FR Racing Concept"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Tundra TRD Pro"
+        },
+        {
+            "brand": "TVR",
+            "model": "Tuscan Speed 6"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "512 BB"
+        },
+
+        {
+            "brand": "Alfa Romeo",
+            "model": "4C Gr.3 Road Car"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Camaro SS"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette C7 Gr.3 Road Car"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette Stingray (C7)"
+        },
+        {
+            "brand": "Citroën",
+            "model": "GT by Citroën Road Car"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Viper GTS"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Viper SRT10 Coupe"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "F40"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "F50"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang Gr.3 Road Car"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "F-type R Coupé"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Countach 25th Anniversary"
+        },
+        {
+            "brand": "Lexus",
+            "model": "LC500"
+        },
+        {
+            "brand": "Lexus",
+            "model": "RC F"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Atenza Gr.3 Road Car"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-AMG GT S"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Lancer Evolution Final Edition Gr.B Road Car"
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 GT3 RS (991)"
+        },
+        {
+            "brand": "Shelby",
+            "model": "Shelby Cobra 427"
+        },
+        {
+            "brand": "Subaru",
+            "model": "WRX Gr.B Road Car"
+        },
+
+        {
+            "brand": "Amuse",
+            "model": "Amuse S2000 GT1 Turbo"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "DB11"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Viper GTS"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "458 Italia"
+        },
+        {
+            "brand": "Ford",
+            "model": "Ford GT"
+        },
+        {
+            "brand": "Honda",
+            "model": "NSX"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Diablo GT"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Huracán LP 610-4"
+        },
+        {
+            "brand": "McLaren",
+            "model": "McLaren F1"
+        },
+        {
+            "brand": "McLaren",
+            "model": "MP4-12C"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "SLR McLaren"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "SLS AMG"
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R Premium edition"
+        },
+        {
+            "brand": "Nissan",
+            "model": "Nissan GT-R NISMO"
+        },
+
+        {
+            "brand": "Chevrolet",
+            "model": "Camaro ZL1 1LE Package"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Dodge Charger SRT Hellcat"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "Enzo Ferrari"
+        },
+        {
+            "brand": "Ford",
+            "model": "Ford GT'17"
+        },
+        {
+            "brand": "GT Awards (SEMA)",
+            "model": "Chris Holstrom Concepts"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Aventador LP 700-4"
+        },
+        {
+            "brand": "McLaren",
+            "model": "650S Coupe"
+        },
+        {
+            "brand": "Pagani",
+            "model": "Huayra"
+        },
+        {
+            "brand": "RUF",
+            "model": "CTR3"
+        },
+
+
+        {
+            "brand": "Aston Martin",
+            "model": "One-77"
+        },
+        {
+            "brand": "GT Awards (SEMA)",
+            "model": "Mach Forty"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Aventador LP 750-4 Superveloce"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Veneno"
+        },
+
+
+        {
+            "brand": "Bugatti",
+            "model": "Veyron 16.4"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "LaFerrari"
+        },
+
+        {
+            "brand": "Bugatti",
+            "model": "Bugatti Vision Gran Turismo"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "HYUNDAI N 2025 Vision Gran Turismo"
+        },
+        {
+            "brand": "Mazda",
+            "model": "LM55 Vision Gran Turismo"
+        },
+        {
+            "brand": "McLaren",
+            "model": "McLaren Ultimate Vision Gran Turismo"
+        },
+
+        {
+            "brand": "Alfa Romeo",
+            "model": "GIULIA TZ2 carrozzata da ZAGATO CN.AR750106"
+        },
+        {
+            "brand": "Alpine",
+            "model": "Alpine Vision Gran Turismo"
+        },
+        {
+            "brand": "Alpine",
+            "model": "Alpine Vision Gran Turismo Race Mode"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "Aston Martin DP-100 Vision Gran Turismo"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "Aston Martin Vulcan"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "DB3S CN.1"
+        },
+        {
+            "brand": "Audi",
+            "model": "Audi e-tron Vision Gran Turismo"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M4 Safety Car"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW Vision Gran Turismo"
+        },
+        {
+            "brand": "Chaparral",
+            "model": "Chevrolet Chaparral 2X Vision Gran Turismo"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette StingRay Racer Concept"
+        },
+        {
+            "brand": "Daihatsu",
+            "model": "DAIHATSU COPEN RJ Vision Gran Turismo"
+        },
+        {
+            "brand": "Dallara",
+            "model": "SF19 Super Formula / Honda"
+        },
+        {
+            "brand": "Dallara",
+            "model": "SF19 Super Formula / Toyota"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Dodge Charger SRT Hellcat Safety Car"
+        },
+        {
+            "brand": "Dodge",
+            "model": "SRT Tomahawk GTS-R Vision Gran Turismo"
+        },
+        {
+            "brand": "Dodge",
+            "model": "SRT Tomahawk S Vision Gran Turismo"
+        },
+        {
+            "brand": "Dodge",
+            "model": "SRT Tomahawk X Vision Gran Turismo"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "250 GTO CN.3729GT"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "330 P4"
+        },
+        {
+            "brand": "Fittipaldi Motors",
+            "model": "Fittipaldi EF7 Vision Gran Turismo by Pininfarina"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mark IV Race Car"
+        },
+        {
+            "brand": "Gran Turismo",
+            "model": "F1500T-A"
+        },
+        {
+            "brand": "Gran Turismo",
+            "model": "Gran Turismo Racing Kart 125 Shifter"
+        },
+        {
+            "brand": "Gran Turismo",
+            "model": "Gran Turismo Red Bull X2014 Junior"
+        },
+        {
+            "brand": "Gran Turismo",
+            "model": "Gran Turismo Red Bull X2014 Standard"
+        },
+        {
+            "brand": "Gran Turismo",
+            "model": "Gran Turismo Red Bull X2019 Competition"
+        },
+        {
+            "brand": "Honda",
+            "model": "Honda Project 2&4 powered by RC213V"
+        },
+        {
+            "brand": "Honda",
+            "model": "Honda Sports Vision Gran Turismo"
+        },
+        {
+            "brand": "Infiniti",
+            "model": "INFINITI CONCEPT Vision Gran Turismo"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "D-type"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "Jaguar Vision Gran Turismo Coupé"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "Jaguar XJ13"
+        },
+        {
+            "brand": "Lexus",
+            "model": "LEXUS LF-LC GT Vision Gran Turismo"
+        },
+        {
+            "brand": "McLaren",
+            "model": "P1 GTR"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "A 45 AMG 4MATIC"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-AMG F1 W08 EQ Power+"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-AMG F1 W08 EQ Power+ (Color Variation)"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-AMG GT Safety Car"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-Benz AMG Vision Gran Turismo"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-Benz AMG Vision Gran Turismo Racing Series"
+        },
+        {
+            "brand": "MINI",
+            "model": "MINI Clubman Vision Gran Turismo"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Concept XR-PHEV EVOLUTION Vision Gran Turismo"
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R Safety Car"
+        },
+        {
+            "brand": "Nissan",
+            "model": "NISSAN CONCEPT 2020 Vision Gran Turismo"
+        },
+        {
+            "brand": "Pagani",
+            "model": "Zonda R"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "Peugeot L500R HYbrid Vision Gran Turismo, 2017"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "PEUGEOT Vision Gran Turismo"
+        },
+        {
+            "brand": "Porsche",
+            "model": "Taycan Turbo S"
+        },
+        {
+            "brand": "Renault",
+            "model": "R8 Gordini"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Mégane R.S. Trophy Safety Car"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "R.S.01"
+        },
+        {
+            "brand": "Shelby",
+            "model": "Shelby Cobra Daytona Coupe"
+        },
+        {
+            "brand": "Subaru",
+            "model": "Falken Tire / Turn 14 Distribution BRZ"
+        },
+        {
+            "brand": "Subaru",
+            "model": "SUBARU VIZIV GT Vision Gran Turismo"
+        },
+        {
+            "brand": "Subaru",
+            "model": "Subaru WRX STI Isle of Man Time Attack Car"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Crown Athlete G Safety Car"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Toyota FT-1"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Toyota FT-1 Vision Gran Turismo"
+        },
+        {
+            "brand": "Tesla Motors",
+            "model": "Model S Signature Performance"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "GTI Roadster Vision Gran Turismo"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "GTI Supersport Vision Gran Turismo"
+        },
+        {
+            "brand": "Zagato",
+            "model": "IsoRivolta Zagato Vision Gran Turismo"
+        },
+
+        {
+            "brand": "Audi",
+            "model": "Audi Sport quattro S1 Pikes Peak"
+        },
+        {
+            "brand": "Ford",
+            "model": "Focus Gr.B Rally Car"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang Gr.B Rally Car"
+        },
+        {
+            "brand": "Honda",
+            "model": "NSX Gr.B Rally Car"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "Genesis Gr.B Rally Car"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Lancer Evolution Final Edition Gr.B Rally Car"
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R Gr.B Rally Car"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "RCZ Gr.B Rally Car"
+        },
+        {
+            "brand": "Subaru",
+            "model": "WRX Gr.B Rally Car"
+        },
+        {
+            "brand": "Toyota",
+            "model": "TOYOTA 86 Gr.B Rally Car"
+        },
+
+        {
+            "brand": "Alfa Romeo",
+            "model": "4C Gr.4"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "Vantage Gr.4"
+        },
+        {
+            "brand": "Audi",
+            "model": "TT cup"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M4 Gr.4"
+        },
+        {
+            "brand": "Bugatti",
+            "model": "Veyron Gr.4"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette C7 Gr.4"
+        },
+        {
+            "brand": "Citroën",
+            "model": "GT by Citroën Gr.4"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Viper Gr.4"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "458 Italia Gr.4"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang Gr.4"
+        },
+        {
+            "brand": "Honda",
+            "model": "NSX Gr.4"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "Genesis Gr.4"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "F-type Gr.4"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "Huracán Gr.4"
+        },
+        {
+            "brand": "Lexus",
+            "model": "RC F Gr.4"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Atenza Gr.4"
+        },
+        {
+            "brand": "McLaren",
+            "model": "650S Gr.4"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "SLS AMG Gr.4"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Lancer Evolution Final Edition Gr.4"
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R Gr.4"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "RCZ Gr.4"
+        },
+        {
+            "brand": "Porsche",
+            "model": "Cayman GT4 Clubsport"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Mégane Gr.4"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "Mégane Trophy"
+        },
+        {
+            "brand": "Subaru",
+            "model": "WRX Gr.4"
+        },
+        {
+            "brand": "Toyota",
+            "model": "TOYOTA 86 Gr.4"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Scirocco Gr.4"
+        },
+
+        {
+            "brand": "Alfa Romeo",
+            "model": "4C Gr.3"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "DBR9 GT1"
+        },
+        {
+            "brand": "Aston Martin",
+            "model": "V12 Vantage GT3"
+        },
+        {
+            "brand": "Audi",
+            "model": "Audi R8 LMS (Audi Sport Team WRT)"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M3 GT (BMW Motorsport)"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M6 GT3 (Walkenhorst Motorsport)"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW M6 GT3 M Power Livery"
+        },
+        {
+            "brand": "BMW",
+            "model": "BMW Z4 GT3"
+        },
+        {
+            "brand": "Chevrolet",
+            "model": "Corvette C7 Gr.3"
+        },
+        {
+            "brand": "Citroën",
+            "model": "GT by Citroën Race Car (Gr.3)"
+        },
+        {
+            "brand": "Dodge",
+            "model": "Viper SRT GT3-R"
+        },
+        {
+            "brand": "Ferrari",
+            "model": "458 Italia GT3"
+        },
+        {
+            "brand": "Ford",
+            "model": "Ford GT LM Spec II Test Car"
+        },
+        {
+            "brand": "Ford",
+            "model": "Mustang Gr.3"
+        },
+        {
+            "brand": "Honda",
+            "model": "NSX Gr.3"
+        },
+        {
+            "brand": "Hyundai",
+            "model": "Genesis Gr.3"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "F-type Gr.3"
+        },
+        {
+            "brand": "Lamborghini",
+            "model": "2015 Lamborghini Huracán GT3"
+        },
+        {
+            "brand": "Lexus",
+            "model": "RC F GT3 (Emil Frey Racing)"
+        },
+        {
+            "brand": "Lexus",
+            "model": "RC F GT3 prototype (Emil Frey Racing)"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Atenza Gr.3"
+        },
+        {
+            "brand": "Mazda",
+            "model": "RX-VISION GT3 CONCEPT"
+        },
+        {
+            "brand": "McLaren",
+            "model": "650S GT3"
+        },
+        {
+            "brand": "McLaren",
+            "model": "McLaren F1 GTR - BMW (Kokusai Kaihatsu UK Racing)"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Mercedes-AMG GT3 (AMG-Team HTP-Motorsport)"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "SLS AMG GT3"
+        },
+        {
+            "brand": "Mitsubishi",
+            "model": "Lancer Evolution Final Edition Gr.3"
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R NISMO GT3 N24 Schulze Motorsport"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "PEUGEOT Vision Gran Turismo (Gr.3)"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "RCZ Gr.3"
+        },
+        {
+            "brand": "Porsche",
+            "model": "911 RSR (991)"
+        },
+        {
+            "brand": "Renault Sport",
+            "model": "R.S.01 GT3"
+        },
+        {
+            "brand": "Subaru",
+            "model": "WRX Gr.3"
+        },
+        {
+            "brand": "Toyota",
+            "model": "GR Supra Racing Concept"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Toyota FT-1 Vision Gran Turismo (Gr.3)"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "GTI Vision Gran Turismo (Gr.3)"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Volkswagen Beetle Gr.3"
+        },
+
+        {
+            "brand": "Honda",
+            "model": "EPSON NSX"
+        },
+        {
+            "brand": "Honda",
+            "model": "RAYBRIG NSX CONCEPT-GT"
+        },
+        {
+            "brand": "Lexus",
+            "model": "au TOM’S RC F"
+        },
+        {
+            "brand": "Lexus",
+            "model": "PETRONAS TOM'S SC430"
+        },
+        {
+            "brand": "Nissan",
+            "model": "MOTUL AUTECH GT-R"
+        },
+        {
+            "brand": "Nissan",
+            "model": "XANAVI NISMO GT-R"
+        },
+
+        {
+            "brand": "Alpine",
+            "model": "Alpine Vision Gran Turismo 2017"
+        },
+        {
+            "brand": "Audi",
+            "model": "Audi R18 (Audi Sport Team Joest)"
+        },
+        {
+            "brand": "Audi",
+            "model": "Audi R18 TDI (Audi Sport Team Joest)"
+        },
+        {
+            "brand": "Audi",
+            "model": "Audi Vision Gran Turismo"
+        },
+        {
+            "brand": "Dodge",
+            "model": "SRT Tomahawk Vision Gran Turismo (Gr.1)"
+        },
+        {
+            "brand": "Jaguar",
+            "model": "Jaguar XJR-9"
+        },
+        {
+            "brand": "Mazda",
+            "model": "Mazda 787B"
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "Sauber Mercedes C9"
+        },
+        {
+            "brand": "Nissan",
+            "model": "GT-R LM NISMO"
+        },
+        {
+            "brand": "Nissan",
+            "model": "R92CP"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "Peugeot 908 HDi FAP - Team Peugeot Total"
+        },
+        {
+            "brand": "Peugeot",
+            "model": "Peugeot L750R HYbrid Vision Gran Turismo, 2017"
+        },
+        {
+            "brand": "Porsche",
+            "model": "962 C"
+        },
+        {
+            "brand": "Porsche",
+            "model": "Porsche 919 Hybrid (Porsche Team)"
+        },
+        {
+            "brand": "Toyota",
+            "model": "Toyota TS050 - Hybrid (Toyota Gazoo Racing)"
+        },
+        {
+            "brand": "Toyota",
+            "model": "TS030 Hybrid"
+        }
+    ]
+}
